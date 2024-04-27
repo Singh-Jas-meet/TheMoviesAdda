@@ -28,6 +28,6 @@ Include screenshots of your application here to give users a visual representati
 ## Credits
 - IMDbot API for providing movie data.
 
-site is live [here]()
+site is live [here](https://singh-jas-meet.github.io/TheMoviesAdda/)
 
 
