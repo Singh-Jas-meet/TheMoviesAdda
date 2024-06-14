@@ -18,11 +18,8 @@ The Movies Adda is a simple web application that allows users to search for movi
 - Display movie posters, titles, release years, and actors.
 - Responsive design for different screen sizes.
 
-## Screenshots
-Include screenshots of your application here to give users a visual representation of your project.
-
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/the-movies-adda.git
+1. Clone the repository: git clone https://github.com/Singh-Jas-meet/the-movies-adda.git
 2. Open the index.html file in a web browser to run the application.
 
 ## Credits
