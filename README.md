@@ -19,7 +19,7 @@ The Movies Adda is a simple web application that allows users to search for movi
 - Responsive design for different screen sizes.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/Singh-Jas-meet/the-movies-adda.git
+1. Clone the repository: git clone https://github.com/Singh-Jas-meet/TheMoviesAdda.git
 2. Open the index.html file in a web browser to run the application.
 
 ## Credits
